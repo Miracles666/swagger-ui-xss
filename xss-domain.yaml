@@ -2,6 +2,6 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    123123<h1>123</h1><script src=/test.js></script><form action=https://brutelogic.com.br/gym.php method=POST><Svg/OnLoad=alert(1)>//"><input type=submit value=XSS></form><a onmouseover=alert(document.cookie)>xxs link</a>
+    123123<h1>123</h1><script src=/test.js></script><form action=https://brutelogic.com.br/gym.php method=POST><input type=image src=1 onerror=alert(1)><input type=submit value=XSS></form><a onmouseover=alert(document.cookie)>xxs link</a>
 
   version: production
