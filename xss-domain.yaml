@@ -2,4 +2,4 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <h1>test></h1><img onerror=alert('textarea') src=x >">
+    <h1>test></h1><img onerror=alert('textarea') src=1>">
