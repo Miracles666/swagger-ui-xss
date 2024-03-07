@@ -2,6 +2,6 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form></textarea><img onerror=alert('textarea') src=1><object data='data:text/html;base64,PHNjcmlwdD5hbGVydCgveHNzLyk8L3NjcmlwdD4='></object>"></form>
+    <form></textarea><img onerror=alert('textarea') src=1><button onclick=alert(1)></form>
 
   version: production
