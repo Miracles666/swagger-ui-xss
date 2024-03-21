@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "1.0.0"
   title: XSS img test
-  description: onload="alert(1)" <svg on onload=(alert)(document.domain)>
+  description: onload="alert(1)" <style>@keyframes x{}</style><xss style="animation-name:x" onanimationend="alert(1)"></xss>
 paths:
   /:
     get:
