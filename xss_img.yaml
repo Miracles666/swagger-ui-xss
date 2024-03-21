@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "1.0.0"
   title: XSS img test
-  description: test <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><a"/onclick=(confirm)()>"></form>
+  description: test <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img ignored=() src=x onerror=prompt(1)>"></form>
 
 paths:
   /:
