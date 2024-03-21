@@ -2,7 +2,7 @@
     "url": "https://raw.githubusercontent.com/Miracles666/swagger-ui-xss/main/xss-cookie.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Miracles666/swagger-ui-xss/mainxss-cookie.yaml",
+            "url": "https://raw.githubusercontent.com/Miracles666/swagger-ui-xss/main/xss-cookie.yaml",
             "name": "XSS payload"
         }
     ]
